@@ -1,0 +1,265 @@
+DiscardNonMatching;
+Rule {
+	Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	}
+//end Rule  
+};
