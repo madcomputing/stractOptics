@@ -1,0 +1,367 @@
+DiscardNonMatching;
+Rule {
+  //distros and DE
+	Matches {
+		Domain("|wiki.archlinux.org|")
+	},  
+  Matches {
+		Domain("|https://bbs.archlinux.org|")
+	},
+  Matches {
+		Domain("|https://wiki.debian.org|")
+	},
+  Matches {
+		Domain("|https://forums.debian.net|")
+	},
+  Matches {
+		Domain("|https://ubuntuforums.org|")
+	},
+  Matches {
+		Domain("|ubuntu.com|")
+	},  
+  Matches {
+		Domain("|help.ubuntu.com|")
+	},
+  Matches {
+		Domain("|blog.linuxmint.com|")
+	},
+  Matches {
+		Domain("|forums.linuxmint.com|")
+	},
+  Matches {
+		Domain("|docs.fedoraproject.org/en-US/docs/|")
+	},
+  Matches {
+		Domain("|discussion.fedoraproject.org|")
+	},
+  Matches {
+		Domain("|forums.fedoraforum.org|")
+	},
+  Matches {
+		Domain("|docs.redhat.com|")
+	},
+  Matches {
+		Domain("|discourse.gnome.org|")
+	},
+  Matches {
+		Domain("|handbook.gnome.org|")
+	},
+  Matches {
+		Domain("|github.com/linuxmint/cinnamon/wiki|")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  //reddit
+  Matches {
+		Domain("|www.reddit.com/r/linuxmint/|")
+	},
+  Matches {
+		Domain("|www.reddit.com/r/Ubuntu/|")
+	},
+  Matches {
+		Domain("|www.reddit.com/r/linux/|")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+
+
+  
+  //Technology stack exchange:
+  Matches {
+		Domain("|stackoverflow.com|")
+	},
+  Matches {
+		Domain("|superuser.com|")
+	},
+  Matches {
+		Domain("|askubuntu.com|")
+	},
+  Matches {
+		Domain("|serverfault.com|")
+	},
+  Matches {
+		Domain("|unix.stackexchange.com|")
+	},
+  Matches {
+		Domain("|softwareengineering.stackexchange.com|")
+	},
+  Matches {
+		Domain("|salesforce.stackexchange.com|")
+	},
+  Matches {
+		Domain("|magento.stackexchange.com|")
+	},
+  Matches {
+		Domain("|wordpress.stackexchange.com|")
+	},
+  Matches {
+		Domain("|dba.stackexchange.com|")
+	},
+  Matches {
+		Domain("|sharepoint.stackexchange.com|")
+	},
+  Matches {
+		Domain("|codereview.stackexchange.com|")
+	},
+  Matches {
+		Domain("|security.stackexchange.com|")
+	},
+  Matches {
+		Domain("|drupal.stackexchange.com|")
+	},
+  Matches {
+		Domain("|ux.stackexchange.com|")
+	},
+  Matches {
+		Domain("|webmasters.stackexchange.com|")
+	},
+  Matches {
+		Domain("|webapps.stackexchange.com|")
+	},
+  Matches {
+		Domain("|networkengineering.stackexchange.com|")
+	},
+  Matches {
+		Domain("|sqa.stackexchange.com|")
+	},
+  Matches {
+		Domain("|craftcms.stackexchange.com|")
+	},
+  Matches {
+		Domain("|sitecore.stackexchange.com|")
+	},
+  Matches {
+		Domain("|reverseengineering.stackexchange.com|")
+	},
+  Matches {
+		Domain("|joomla.stackexchange.com|")
+	},
+  Matches {
+		Domain("|devops.stackexchange.com|")
+	},
+  Matches {
+		Domain("|cs.stackexchange.com|")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	},
+  Matches {
+		Domain("||")
+	}
+//end Rule  
+};
