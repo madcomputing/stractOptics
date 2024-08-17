@@ -3,16 +3,16 @@ DiscardNonMatching;
 Rule {
   //distros and DE
 	Matches {
-		Domain("|wiki.archlinux.org|")
+		Site("|wiki.archlinux.org|")
 	},  
   Matches {
-		Domain("|bbs.archlinux.org|")
+		Site("|bbs.archlinux.org|")
 	},
   Matches {
-		Domain("|wiki.debian.org|")
+		Site("|wiki.debian.org|")
 	},
   Matches {
-		Domain("|forums.debian.net|")
+		Site("|forums.debian.net|")
 	},
   Matches {
 		Domain("|ubuntuforums.org|")
@@ -21,31 +21,31 @@ Rule {
 		Domain("|ubuntu.com|")
 	},  
   Matches {
-		Domain("|help.ubuntu.com|")
+		Site("|help.ubuntu.com|")
 	},
   Matches {
-		Domain("|blog.linuxmint.com|")
+		Site("|blog.linuxmint.com|")
 	},
   Matches {
-		Domain("|forums.linuxmint.com|")
+		Site("|forums.linuxmint.com|")
 	},
   Matches {
-		Domain("|docs.fedoraproject.org|")
+		Site("|docs.fedoraproject.org|")
 	},
   Matches {
-		Domain("|discussion.fedoraproject.org|")
+		Site("|discussion.fedoraproject.org|")
 	},
   Matches {
-		Domain("|forums.fedoraforum.org|")
+		Site("|forums.fedoraforum.org|")
 	},
   Matches {
-		Domain("|docs.redhat.com|")
+		Site("|docs.redhat.com|")
 	},
   Matches {
-		Domain("|discourse.gnome.org|")
+		Site("|discourse.gnome.org|")
 	},
   Matches {
-		Domain("|handbook.gnome.org|")
+		Site("|handbook.gnome.org|")
 	},
   Matches {
 		URL("|github.com/linuxmint/cinnamon/wiki/*|")
@@ -74,67 +74,67 @@ Rule {
 		Domain("|serverfault.com|")
 	},
   Matches {
-		Domain("|unix.stackexchange.com|")
+		Site("|unix.stackexchange.com|")
 	},
   Matches {
-		Domain("|softwareengineering.stackexchange.com|")
+		Site("|softwareengineering.stackexchange.com|")
 	},
   Matches {
-		Domain("|salesforce.stackexchange.com|")
+		Site("|salesforce.stackexchange.com|")
 	},
   Matches {
-		Domain("|magento.stackexchange.com|")
+		Site("|magento.stackexchange.com|")
 	},
   Matches {
-		Domain("|wordpress.stackexchange.com|")
+		Site("|wordpress.stackexchange.com|")
 	},
   Matches {
-		Domain("|dba.stackexchange.com|")
+		Site("|dba.stackexchange.com|")
 	},
   Matches {
-		Domain("|sharepoint.stackexchange.com|")
+		Site("|sharepoint.stackexchange.com|")
 	},
   Matches {
-		Domain("|codereview.stackexchange.com|")
+		Site("|codereview.stackexchange.com|")
 	},
   Matches {
-		Domain("|security.stackexchange.com|")
+		Site("|security.stackexchange.com|")
 	},
   Matches {
-		Domain("|drupal.stackexchange.com|")
+		Site("|drupal.stackexchange.com|")
 	},
   Matches {
-		Domain("|ux.stackexchange.com|")
+		Site("|ux.stackexchange.com|")
 	},
   Matches {
-		Domain("|webmasters.stackexchange.com|")
+		Site("|webmasters.stackexchange.com|")
 	},
   Matches {
-		Domain("|webapps.stackexchange.com|")
+		Site("|webapps.stackexchange.com|")
 	},
   Matches {
-		Domain("|networkengineering.stackexchange.com|")
+		Site("|networkengineering.stackexchange.com|")
 	},
   Matches {
-		Domain("|sqa.stackexchange.com|")
+		Site("|sqa.stackexchange.com|")
 	},
   Matches {
-		Domain("|craftcms.stackexchange.com|")
+		Site("|craftcms.stackexchange.com|")
 	},
   Matches {
-		Domain("|sitecore.stackexchange.com|")
+		Site("|sitecore.stackexchange.com|")
 	},
   Matches {
-		Domain("|reverseengineering.stackexchange.com|")
+		Site("|reverseengineering.stackexchange.com|")
 	},
   Matches {
-		Domain("|joomla.stackexchange.com|")
+		Site("|joomla.stackexchange.com|")
 	},
   Matches {
-		Domain("|devops.stackexchange.com|")
+		Site("|devops.stackexchange.com|")
 	},
   Matches {
-		Domain("|cs.stackexchange.com|")
+		Site("|cs.stackexchange.com|")
 	}
 //end Rule  
 };
