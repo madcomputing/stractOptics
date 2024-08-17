@@ -11,7 +11,7 @@ Rule {
 	},
   Matches {
 		Site("|forums.debian.net|")
-	}/*,
+	},
   Matches {
 		Site("|ubuntuforums.org|")
 	},
@@ -44,8 +44,8 @@ Rule {
 	},
   Matches {
 		Site("|handbook.gnome.org|")
-	},
+	}/*,
   Matches {
 		URL("|github.com/linuxmint/cinnamon/wiki/*|")
-	}*/
+	}
 };
