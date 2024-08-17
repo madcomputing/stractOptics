@@ -2,7 +2,7 @@ DiscardNonMatching;
 Rule {
 	Matches {
 		Site("|wiki.archlinux.org|")
-	}/*,  
+	},  
   Matches {
 		Site("|bbs.archlinux.org|")
 	},
@@ -23,7 +23,7 @@ Rule {
 	},
   Matches {
 		Site("|blog.linuxmint.com|")
-	},
+	}/*,
   Matches {
 		Site("|forums.linuxmint.com|")
 	},
