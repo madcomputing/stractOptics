@@ -1,5 +1,4 @@
 //This list is a work in progress, but it may be useful.
-
 DiscardNonMatching;
 Rule {
   //distros and DE
@@ -51,21 +50,6 @@ Rule {
   Matches {
 		URL("|github.com/linuxmint/cinnamon/wiki/*|")
 	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
   //reddit
   Matches {
 		URL("|www.reddit.com/r/linuxmint/*|")
@@ -75,37 +59,7 @@ Rule {
 	},
   Matches {
 		URL("|www.reddit.com/r/linux/*|")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-
-
-  
+	},  
   //Technology stack exchange:
   Matches {
 		Domain("|stackoverflow.com|")
@@ -181,189 +135,6 @@ Rule {
 	},
   Matches {
 		Domain("|cs.stackexchange.com|")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
-	},
-  Matches {
-		Domain("||")
 	}
 //end Rule  
 };
