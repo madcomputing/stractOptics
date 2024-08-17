@@ -2,8 +2,8 @@ DiscardNonMatching;
 Rule {
 	Matches {
 		Site("|wiki.archlinux.org|")
-	},  
-  /*Matches {
+	}/*,  
+  Matches {
 		Site("|bbs.archlinux.org|")
 	},
   Matches {
