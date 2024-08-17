@@ -23,7 +23,7 @@ Rule {
 	},
   Matches {
 		Site("|blog.linuxmint.com|")
-	}/*,
+	},
   Matches {
 		Site("|forums.linuxmint.com|")
 	},
@@ -46,6 +46,6 @@ Rule {
 		Site("|handbook.gnome.org|")
 	},
   Matches {
-		URL("|github.com/linuxmint/cinnamon/wiki/*|")
-	}*/
+		Site("|github.com|")
+	}
 };
