@@ -44,7 +44,7 @@ Rule {
 	},
   Matches {
 		Site("|handbook.gnome.org|")
-	}/*,
+	},
   Matches {
 		URL("|github.com/linuxmint/cinnamon/wiki/*|")
 	}
