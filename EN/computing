@@ -3,7 +3,7 @@ Rule {
 	Matches {
 		Site("|wiki.archlinux.org|")
 	},  
-  Matches {
+  /*Matches {
 		Site("|bbs.archlinux.org|")
 	},
   Matches {
@@ -47,5 +47,5 @@ Rule {
 	},
   Matches {
 		URL("|github.com/linuxmint/cinnamon/wiki/*|")
-	}
+	}*/
 };
