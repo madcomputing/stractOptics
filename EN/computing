@@ -1,3 +1,5 @@
+//This list is a work in progress, but it may be useful.
+
 DiscardNonMatching;
 Rule {
   //distros and DE
@@ -5,16 +7,16 @@ Rule {
 		Domain("|wiki.archlinux.org|")
 	},  
   Matches {
-		Domain("|https://bbs.archlinux.org|")
+		Domain("|bbs.archlinux.org|")
 	},
   Matches {
-		Domain("|https://wiki.debian.org|")
+		Domain("|wiki.debian.org|")
 	},
   Matches {
-		Domain("|https://forums.debian.net|")
+		Domain("|forums.debian.net|")
 	},
   Matches {
-		Domain("|https://ubuntuforums.org|")
+		Domain("|ubuntuforums.org|")
 	},
   Matches {
 		Domain("|ubuntu.com|")
@@ -29,7 +31,7 @@ Rule {
 		Domain("|forums.linuxmint.com|")
 	},
   Matches {
-		Domain("|docs.fedoraproject.org/en-US/docs/|")
+		Domain("|docs.fedoraproject.org|")
 	},
   Matches {
 		Domain("|discussion.fedoraproject.org|")
@@ -47,7 +49,7 @@ Rule {
 		Domain("|handbook.gnome.org|")
 	},
   Matches {
-		Domain("|github.com/linuxmint/cinnamon/wiki|")
+		URL("|github.com/linuxmint/cinnamon/wiki/*|")
 	},
   Matches {
 		Domain("||")
@@ -66,13 +68,13 @@ Rule {
 	},
   //reddit
   Matches {
-		Domain("|www.reddit.com/r/linuxmint/|")
+		URL("|www.reddit.com/r/linuxmint/*|")
 	},
   Matches {
-		Domain("|www.reddit.com/r/Ubuntu/|")
+		URL("|www.reddit.com/r/Ubuntu/*|")
 	},
   Matches {
-		Domain("|www.reddit.com/r/linux/|")
+		URL("|www.reddit.com/r/linux/*|")
 	},
   Matches {
 		Domain("||")
