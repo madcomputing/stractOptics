@@ -1,6 +1,51 @@
 DiscardNonMatching;
 Rule {
 	Matches {
-        Url("|wiki.archlinux.org|")
-    }
+		Site("|wiki.archlinux.org|")
+	},  
+  Matches {
+		Site("|bbs.archlinux.org|")
+	},
+  Matches {
+		Site("|wiki.debian.org|")
+	},
+  Matches {
+		Site("|forums.debian.net|")
+	},
+  Matches {
+		Site("|ubuntuforums.org|")
+	},
+  Matches {
+		Site("|ubuntu.com|")
+	}/*,  
+  Matches {
+		Site("|help.ubuntu.com|")
+	},
+  Matches {
+		Site("|blog.linuxmint.com|")
+	},
+  Matches {
+		Site("|forums.linuxmint.com|")
+	},
+  Matches {
+		Site("|docs.fedoraproject.org|")
+	},
+  Matches {
+		Site("|discussion.fedoraproject.org|")
+	},
+  Matches {
+		Site("|forums.fedoraforum.org|")
+	},
+  Matches {
+		Site("|docs.redhat.com|")
+	},
+  Matches {
+		Site("|discourse.gnome.org|")
+	},
+  Matches {
+		Site("|handbook.gnome.org|")
+	},
+  Matches {
+		URL("|github.com/linuxmint/cinnamon/wiki/*|")
+	}*/
 };
