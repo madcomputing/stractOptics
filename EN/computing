@@ -1,9 +1,6 @@
-//This list is a work in progress, but it may be useful.
 DiscardNonMatching;
 Rule {
-  //distros and DE
 	Matches {
-		Site("|wiki.archlinux.org|")
-	}
-//end Rule  
+        Site("|wiki.archlinux.org|")
+    }
 };
